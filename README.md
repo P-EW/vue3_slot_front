@@ -1,4 +1,6 @@
-# vue3_tests
+# Warning the code quality may be bad. I used this project to discover JS and the node environment.
+
+# vue3_slot_front
 
 ## Project setup
 ```
